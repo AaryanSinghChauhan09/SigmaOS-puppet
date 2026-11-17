@@ -3,7 +3,7 @@ name = "SigmaOS-puppet"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "puppet component"
+description = "Puppet"
 upstream = []
 
 [contract]
